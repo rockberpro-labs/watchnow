@@ -1,13 +1,13 @@
 {
     "manifest_version": 3,
-    "name": "WatchNow",
+    "name": "WatchNow!",
     "version": "1.0.0",
     "description": "Remove YouTube Watch Later queue to prevent auto-play of the next video",
     "background": {
         "service_worker": "background.js"
     },
     "action": {
-        "default_title": "Remove Watch Later params",
+        "default_title": "Watch Now!",
         "default_icon": {
             "16": "icons/icon16.png",
             "48": "icons/icon48.png",
