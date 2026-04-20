@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "WatchNow!",
+    "name": "Watch Now!",
     "version": "1.0.0",
     "description": "Remove YouTube Watch Later queue to prevent auto-play of the next video",
     "background": {
